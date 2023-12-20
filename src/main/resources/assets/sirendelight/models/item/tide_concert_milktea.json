@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sirendelight:item/tide_concert_milktea"
+  }
+}
